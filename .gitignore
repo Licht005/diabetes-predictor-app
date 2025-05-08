@@ -1,0 +1,6 @@
+# Ignore virtual environment
+diabetes_env/
+*.pkl
+__pycache__/
+*.pyc
+
